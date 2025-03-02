@@ -114,6 +114,9 @@ Since we have **concurrently** installed, we can run both frontend & backend wit
 ```bash
  cd server-backend
  npm start
+ or
+ cd server-backend
+ node server.js
 ```
 
 2️⃣ Start the **frontend**:
